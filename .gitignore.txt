@@ -1,4 +1,4 @@
 bin/
-.sittings/
+.settings/
 .classpath
 .project
