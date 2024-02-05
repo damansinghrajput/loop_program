@@ -10,7 +10,7 @@ public class CarCal {
 	     System.out.println( "let's start"  +   "  0----0  ");
 	     System.out.println( "let's start"  +   "  0----0  ");
 	     
-	   syso
+	   
 	  
 	     
 	     
